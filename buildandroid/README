@@ -42,7 +42,7 @@
         $ /home/dsr/Projects/android-ndk/android-sdk-linux/tools/monitor
 
 
-        $ /home/dsr/Projects/android-ndk/android-sdk-linux/platform-tools/adb shell dumpsys meminfo org.opencpn.opencpn
+        $ /home/dsr/Projects/android-ndk/android-sdk-linux/platform-tooals/adb shell dumpsys meminfo org.opencpn.opencpn
 
 
         http://bricolsoftconsulting.com/how-to-enable-native-heap-tracking-in-ddms/

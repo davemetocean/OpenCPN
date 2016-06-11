@@ -169,7 +169,7 @@ INSTALLS += wmm_plugin_deployment
 
 
 ANDROID_EXTRA_LIBS = \
-        /home/dsr/Projects/opencpn_android/buildandroid/../buildandroid/assetbridge/libs/armeabi/libassetbridge.so
+        /home/dave/opencpn/OpenCPN/buildandroid/assetbridge/libs/armeabi/libassetbridge.so
 
 
 #ANDROID_EXTRA_LIBS += /home/dsr/Projects/opencpn_sf/opencpn/build_android_53/plugins/dashboard_pi/libdashboard_pi.so
